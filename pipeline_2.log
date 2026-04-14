@@ -1,0 +1,827 @@
+05:16:23  INFO      [east_africa_2019_00000]  area=28510 km²  date=2019-08-01
+05:17:16  INFO      [east_africa_2019_00000]  mask_type=otsu  threshold=0.1796875
+05:17:52  INFO        → CSV:    east_africa_2019_00000_area_by_class
+05:17:57  INFO        → CSV:    east_africa_2019_00000_severity_igbp
+05:18:01  INFO        → CSV:    east_africa_2019_00000_annual_timeseries
+05:18:02  INFO        [east_africa_2019_00000]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:18:02  INFO      [east_africa_2019_00001]  area=19477 km²  date=2019-09-01
+05:20:16  INFO      [east_africa_2019_00001]  mask_type=otsu  threshold=0.0625
+05:21:08  INFO        → CSV:    east_africa_2019_00001_area_by_class
+05:21:12  INFO        → CSV:    east_africa_2019_00001_severity_igbp
+05:21:15  INFO        → CSV:    east_africa_2019_00001_annual_timeseries
+05:21:16  INFO        [east_africa_2019_00001]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:21:16  INFO      [east_africa_2020_00002]  area=18916 km²  date=2020-01-01
+05:22:56  INFO      [east_africa_2020_00002]  mask_type=otsu  threshold=-0.109375
+05:23:31  INFO        → CSV:    east_africa_2020_00002_area_by_class
+05:23:36  INFO        → CSV:    east_africa_2020_00002_severity_igbp
+05:23:39  INFO        → CSV:    east_africa_2020_00002_annual_timeseries
+05:23:40  INFO        [east_africa_2020_00002]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:23:40  INFO      [west_africa_2020_00003]  area=13249 km²  date=2020-01-01
+05:25:16  INFO      [west_africa_2020_00003]  mask_type=otsu  threshold=-0.0390625
+05:26:00  INFO        → CSV:    west_africa_2020_00003_area_by_class
+05:26:11  INFO        → CSV:    west_africa_2020_00003_severity_igbp
+05:26:15  INFO        → CSV:    west_africa_2020_00003_annual_timeseries
+05:26:16  INFO        [west_africa_2020_00003]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:26:16  INFO      [east_africa_2021_00004]  area=13239 km²  date=2021-08-01
+05:27:01  INFO      [east_africa_2021_00004]  mask_type=otsu  threshold=0.03125
+05:27:42  INFO        → CSV:    east_africa_2021_00004_area_by_class
+05:27:45  INFO        → CSV:    east_africa_2021_00004_severity_igbp
+05:27:49  INFO        → CSV:    east_africa_2021_00004_annual_timeseries
+05:27:50  INFO        [east_africa_2021_00004]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:27:50  INFO      [southern_africa_2021_00005]  area=13003 km²  date=2021-08-01
+05:29:05  INFO      [southern_africa_2021_00005]  mask_type=otsu  threshold=0.0390625
+05:29:34  INFO        → CSV:    southern_africa_2021_00005_area_by_class
+05:29:39  INFO        → CSV:    southern_africa_2021_00005_severity_igbp
+05:29:44  INFO        → CSV:    southern_africa_2021_00005_annual_timeseries
+05:29:45  INFO        [southern_africa_2021_00005]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:29:45  INFO      [southern_africa_2019_00006]  area=12851 km²  date=2019-08-01
+05:30:56  INFO      [southern_africa_2019_00006]  mask_type=otsu  threshold=0.15625
+05:31:59  INFO      [east_africa_2019_00000]  area=28510 km²  date=2019-08-01
+05:33:04  INFO      [east_africa_2019_00000]  mask_type=otsu  threshold=0.1796875
+05:33:12  INFO        → CSV:    east_africa_2019_00000_area_by_class
+05:33:16  INFO        → CSV:    east_africa_2019_00000_severity_igbp
+05:33:19  INFO        → CSV:    east_africa_2019_00000_annual_timeseries
+05:33:20  INFO        [east_africa_2019_00000]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:33:20  INFO      [east_africa_2019_00001]  area=19477 km²  date=2019-09-01
+05:33:29  INFO      [east_africa_2019_00001]  mask_type=otsu  threshold=0.0625
+05:33:36  INFO        → CSV:    east_africa_2019_00001_area_by_class
+05:33:41  INFO        → CSV:    east_africa_2019_00001_severity_igbp
+05:33:43  INFO        → CSV:    east_africa_2019_00001_annual_timeseries
+05:33:44  INFO        [east_africa_2019_00001]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:33:44  INFO      [east_africa_2020_00002]  area=18916 km²  date=2020-01-01
+05:33:50  INFO      [east_africa_2020_00002]  mask_type=otsu  threshold=-0.109375
+05:33:56  INFO        → CSV:    east_africa_2020_00002_area_by_class
+05:33:58  INFO        → CSV:    east_africa_2020_00002_severity_igbp
+05:34:02  INFO        → CSV:    east_africa_2020_00002_annual_timeseries
+05:34:03  INFO        [east_africa_2020_00002]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:34:03  INFO      [west_africa_2020_00003]  area=13249 km²  date=2020-01-01
+05:34:12  INFO      [west_africa_2020_00003]  mask_type=otsu  threshold=-0.0390625
+05:34:19  INFO        → CSV:    west_africa_2020_00003_area_by_class
+05:34:22  INFO        → CSV:    west_africa_2020_00003_severity_igbp
+05:34:24  INFO        → CSV:    west_africa_2020_00003_annual_timeseries
+05:34:25  INFO        [west_africa_2020_00003]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:34:25  INFO      [east_africa_2021_00004]  area=13239 km²  date=2021-08-01
+05:34:33  INFO      [east_africa_2021_00004]  mask_type=otsu  threshold=0.03125
+05:34:40  INFO        → CSV:    east_africa_2021_00004_area_by_class
+05:34:43  INFO        → CSV:    east_africa_2021_00004_severity_igbp
+05:34:47  INFO        → CSV:    east_africa_2021_00004_annual_timeseries
+05:34:48  INFO        [east_africa_2021_00004]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:34:48  INFO      [southern_africa_2021_00005]  area=13003 km²  date=2021-08-01
+05:34:54  INFO      [southern_africa_2021_00005]  mask_type=otsu  threshold=0.0390625
+05:34:59  INFO        → CSV:    southern_africa_2021_00005_area_by_class
+05:35:02  INFO        → CSV:    southern_africa_2021_00005_severity_igbp
+05:35:06  INFO        → CSV:    southern_africa_2021_00005_annual_timeseries
+05:35:07  INFO        [southern_africa_2021_00005]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:35:07  INFO      [southern_africa_2019_00006]  area=12851 km²  date=2019-08-01
+05:35:14  INFO      [southern_africa_2019_00006]  mask_type=otsu  threshold=0.15625
+05:35:19  INFO        → CSV:    southern_africa_2019_00006_area_by_class
+05:35:23  INFO        → CSV:    southern_africa_2019_00006_severity_igbp
+05:35:26  INFO        → CSV:    southern_africa_2019_00006_annual_timeseries
+05:35:27  INFO        [southern_africa_2019_00006]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:35:27  INFO      [east_africa_2019_00007]  area=12532 km²  date=2019-06-01
+05:36:58  INFO      [east_africa_2019_00007]  mask_type=otsu  threshold=0.2578125
+05:37:36  INFO        → CSV:    east_africa_2019_00007_area_by_class
+05:37:38  INFO        → CSV:    east_africa_2019_00007_severity_igbp
+05:37:41  INFO        20 tasks active — waiting 30s...
+05:38:12  INFO        20 tasks active — waiting 30s...
+05:38:42  INFO        20 tasks active — waiting 30s...
+05:39:13  INFO        20 tasks active — waiting 30s...
+05:39:45  INFO        → CSV:    east_africa_2019_00007_annual_timeseries
+05:39:46  INFO        [east_africa_2019_00007]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:39:46  INFO      [southern_africa_2022_00008]  area=11769 km²  date=2022-09-19
+05:43:26  INFO      [southern_africa_2022_00008]  mask_type=otsu  threshold=-0.140625
+05:44:18  INFO        → CSV:    southern_africa_2022_00008_area_by_class
+05:44:22  INFO        → CSV:    southern_africa_2022_00008_severity_igbp
+05:44:26  INFO        → CSV:    southern_africa_2022_00008_annual_timeseries
+05:44:27  INFO        [southern_africa_2022_00008]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+05:44:27  INFO      [east_africa_2020_00009]  area=11096 km²  date=2020-09-01
+05:47:52  INFO      [east_africa_2020_00009]  mask_type=otsu  threshold=-0.015625
+05:49:16  INFO        → CSV:    east_africa_2020_00009_area_by_class
+05:49:19  INFO        → CSV:    east_africa_2020_00009_severity_igbp
+05:49:22  INFO        → CSV:    east_africa_2020_00009_annual_timeseries
+05:49:23  INFO        [east_africa_2020_00009]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:38:23  INFO      [east_africa_2019_00000]  area=28510 km²  date=2019-08-01
+11:41:19  INFO      [east_africa_2019_00000]  mask_type=otsu  threshold=0.1796875
+11:41:50  INFO        → CSV:    east_africa_2019_00000_area_by_class
+11:41:54  INFO        → CSV:    east_africa_2019_00000_severity_igbp
+11:41:56  INFO        → CSV:    east_africa_2019_00000_annual_timeseries
+11:41:57  INFO        [east_africa_2019_00000]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:41:57  INFO      [east_africa_2019_00001]  area=19477 km²  date=2019-09-01
+11:43:51  INFO      [east_africa_2019_00001]  mask_type=otsu  threshold=0.0625
+11:44:43  INFO        → CSV:    east_africa_2019_00001_area_by_class
+11:44:46  INFO        → CSV:    east_africa_2019_00001_severity_igbp
+11:44:50  INFO        → CSV:    east_africa_2019_00001_annual_timeseries
+11:44:51  INFO        [east_africa_2019_00001]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:44:51  INFO      [east_africa_2020_00002]  area=18916 km²  date=2020-01-01
+11:47:25  INFO      [east_africa_2020_00002]  mask_type=otsu  threshold=-0.109375
+11:48:59  INFO        → CSV:    east_africa_2020_00002_area_by_class
+11:49:03  INFO        → CSV:    east_africa_2020_00002_severity_igbp
+11:49:06  INFO        → CSV:    east_africa_2020_00002_annual_timeseries
+11:49:07  INFO        [east_africa_2020_00002]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:49:07  INFO      [west_africa_2020_00003]  area=13249 km²  date=2020-01-01
+11:51:00  INFO      [west_africa_2020_00003]  mask_type=otsu  threshold=-0.0390625
+11:51:48  INFO        → CSV:    west_africa_2020_00003_area_by_class
+11:51:51  INFO        → CSV:    west_africa_2020_00003_severity_igbp
+11:51:55  INFO        → CSV:    west_africa_2020_00003_annual_timeseries
+11:51:56  INFO        [west_africa_2020_00003]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:51:56  INFO      [east_africa_2021_00004]  area=13239 km²  date=2021-08-01
+11:52:44  INFO      [east_africa_2021_00004]  mask_type=otsu  threshold=0.03125
+11:53:39  INFO        → CSV:    east_africa_2021_00004_area_by_class
+11:53:41  INFO        → CSV:    east_africa_2021_00004_severity_igbp
+11:53:44  INFO        → CSV:    east_africa_2021_00004_annual_timeseries
+11:53:45  INFO        [east_africa_2021_00004]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:53:45  INFO      [southern_africa_2021_00005]  area=13003 km²  date=2021-08-01
+11:55:32  INFO      [southern_africa_2021_00005]  mask_type=otsu  threshold=0.0390625
+11:56:12  INFO        → CSV:    southern_africa_2021_00005_area_by_class
+11:56:15  INFO        → CSV:    southern_africa_2021_00005_severity_igbp
+11:56:19  INFO        → CSV:    southern_africa_2021_00005_annual_timeseries
+11:56:20  INFO        [southern_africa_2021_00005]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:56:20  INFO      [southern_africa_2019_00006]  area=12851 km²  date=2019-08-01
+11:57:14  INFO      [southern_africa_2019_00006]  mask_type=otsu  threshold=0.15625
+11:58:03  INFO        → CSV:    southern_africa_2019_00006_area_by_class
+11:58:06  INFO        → CSV:    southern_africa_2019_00006_severity_igbp
+11:58:09  INFO        → CSV:    southern_africa_2019_00006_annual_timeseries
+11:58:10  INFO        [southern_africa_2019_00006]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+11:58:10  INFO      [east_africa_2019_00007]  area=12532 km²  date=2019-06-01
+11:59:20  INFO      [east_africa_2019_00007]  mask_type=otsu  threshold=0.2578125
+12:00:03  INFO        → CSV:    east_africa_2019_00007_area_by_class
+12:00:08  INFO        → CSV:    east_africa_2019_00007_severity_igbp
+12:00:31  INFO        → CSV:    east_africa_2019_00007_annual_timeseries
+12:00:32  INFO        [east_africa_2019_00007]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+12:00:32  INFO      [southern_africa_2022_00008]  area=11769 km²  date=2022-09-19
+12:04:00  INFO      [southern_africa_2022_00008]  mask_type=otsu  threshold=-0.140625
+12:06:39  INFO        → CSV:    southern_africa_2022_00008_area_by_class
+12:06:43  INFO        → CSV:    southern_africa_2022_00008_severity_igbp
+12:06:46  INFO        → CSV:    southern_africa_2022_00008_annual_timeseries
+12:06:47  INFO        [southern_africa_2022_00008]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+12:06:47  INFO      [east_africa_2020_00009]  area=11096 km²  date=2020-09-01
+12:12:21  INFO      [east_africa_2020_00009]  mask_type=otsu  threshold=-0.015625
+12:13:51  INFO        → CSV:    east_africa_2020_00009_area_by_class
+12:13:54  INFO        → CSV:    east_africa_2020_00009_severity_igbp
+12:13:59  INFO        → CSV:    east_africa_2020_00009_annual_timeseries
+12:14:00  INFO        [east_africa_2020_00009]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+13:08:35  INFO      GEE initialised — project: forestrecovery
+13:08:35  INFO      TIFF exports: EXPORT_TIFFS=False  scope=minimal
+13:08:35  INFO      Loading inventory: D:\files\GEE_Globe_2\scandinavia.csv
+13:08:35  INFO        3 fires loaded
+13:08:35  INFO        0 fires already completed — skipping
+13:08:35  INFO        3 fires to process  (0 already done)
+13:08:36  INFO      [scandinavia_2019_00000]  area=82 km²  date=2019-04-01
+13:08:36  INFO      [scandinavia_2019_00001]  area=31 km²  date=2019-04-01
+13:08:36  INFO      [scandinavia_2019_00002]  area=25 km²  date=2019-04-01
+13:08:39  WARNING   Sleeping 1.08 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+13:08:54  WARNING   Sleeping 0.68 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+13:08:56  WARNING   Sleeping 0.59 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:12:47  INFO      GEE initialised — project: forestrecovery
+18:12:47  INFO      TIFF exports: EXPORT_TIFFS=False  scope=minimal
+18:12:47  INFO      Loading inventory: D:\files\GEE_Globe_2\scandinavia.csv
+18:12:47  INFO        3 fires loaded
+18:12:47  INFO        0 fires already completed — skipping
+18:12:47  INFO        3 fires to process  (0 already done)
+18:12:47  INFO      [scandinavia_2019_00000]  area=82 km²  date=2019-04-01
+18:12:47  INFO      [scandinavia_2019_00001]  area=31 km²  date=2019-04-01
+18:12:47  INFO      [scandinavia_2019_00002]  area=25 km²  date=2019-04-01
+18:12:50  WARNING   Sleeping 0.85 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:12:51  WARNING   Sleeping 0.96 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:16:17  WARNING   Sleeping 0.40 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:16:54  INFO      [scandinavia_2019_00002]  mask_type=otsu  threshold=-0.1171875
+18:17:02  WARNING   Sleeping 1.52 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:17:04  INFO      [scandinavia_2019_00001]  mask_type=otsu  threshold=0.0625
+18:17:04  WARNING   Sleeping 1.73 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+18:18:12  INFO        → CSV:    scandinavia_2019_00002_area_by_class
+18:18:16  INFO        → CSV:    scandinavia_2019_00002_severity_igbp
+18:18:19  INFO        → CSV:    scandinavia_2019_00002_annual_timeseries
+18:18:20  INFO        [scandinavia_2019_00002]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+18:18:30  INFO        → CSV:    scandinavia_2019_00001_area_by_class
+18:18:32  INFO        → CSV:    scandinavia_2019_00001_severity_igbp
+18:18:35  INFO        → CSV:    scandinavia_2019_00001_annual_timeseries
+18:18:36  INFO        [scandinavia_2019_00001]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+18:18:44  INFO      [scandinavia_2019_00000]  mask_type=otsu  threshold=0.015625
+18:20:16  INFO        → CSV:    scandinavia_2019_00000_area_by_class
+18:20:18  INFO        → CSV:    scandinavia_2019_00000_severity_igbp
+18:20:21  INFO        → CSV:    scandinavia_2019_00000_annual_timeseries
+18:20:22  INFO        [scandinavia_2019_00000]  submitted 3 tasks  (0 TIFFs, 3 CSVs)  EXPORT_TIFFS=False  scope=minimal
+18:20:22  INFO      Run complete — submitted=3  skipped=0  failed=0
+21:33:01  INFO      GEE initialised — project: forestrecovery
+21:33:01  INFO      TIFF exports: EXPORT_TIFFS=False  scope=minimal
+21:33:01  INFO      Loading inventory: D:\files\GEE_Globe_2\mediterranean.csv
+21:33:01  INFO        260 fires loaded
+21:33:01  INFO        0 fires already completed — skipping
+21:33:01  INFO        260 fires to process  (0 already done)
+21:33:01  INFO      [mediterranean_2019_00000]  area=62 km²  date=2019-06-24
+21:33:01  INFO      [mediterranean_2019_00001]  area=35 km²  date=2019-06-24
+21:33:01  INFO      [mediterranean_2020_00002]  area=56 km²  date=2020-08-05
+21:33:01  INFO      [mediterranean_2020_00003]  area=29 km²  date=2020-08-01
+21:33:01  INFO      [mediterranean_2021_00004]  area=327 km²  date=2021-08-03
+21:33:01  INFO      [mediterranean_2021_00005]  area=110 km²  date=2021-08-08
+21:33:01  INFO      [mediterranean_2021_00006]  area=90 km²  date=2021-08-01
+21:33:01  INFO      [mediterranean_2021_00007]  area=85 km²  date=2021-08-07
+21:33:01  INFO      [mediterranean_2021_00008]  area=44 km²  date=2021-08-07
+21:33:01  INFO      [mediterranean_2021_00009]  area=42 km²  date=2021-08-09
+21:33:01  INFO      [mediterranean_2021_00010]  area=37 km²  date=2021-08-07
+21:33:01  INFO      [mediterranean_2021_00011]  area=76 km²  date=2021-08-11
+21:33:01  INFO      [mediterranean_2022_00012]  area=54 km²  date=2022-09-08
+21:33:01  INFO      [mediterranean_2023_00013]  area=149 km²  date=2023-07-22
+21:33:01  INFO      [mediterranean_2023_00014]  area=40 km²  date=2023-07-23
+21:33:01  INFO      [mediterranean_2023_00015]  area=34 km²  date=2023-07-23
+21:33:01  INFO      [mediterranean_2023_00016]  area=31 km²  date=2023-07-16
+21:33:01  INFO      [mediterranean_2023_00017]  area=27 km²  date=2023-07-23
+21:33:01  INFO      [mediterranean_2019_00018]  area=63 km²  date=2019-06-25
+21:33:01  INFO      [mediterranean_2019_00019]  area=26 km²  date=2019-06-27
+21:33:04  WARNING   Sleeping 0.66 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.71 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 1.70 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.59 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.08 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.53 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.21 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 1.82 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 1.08 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 1.91 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:05  WARNING   Sleeping 0.69 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 0.95 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 1.50 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 0.48 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 0.73 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 0.57 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:06  WARNING   Sleeping 3.56 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 3.47 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 2.25 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:06  WARNING   Sleeping 0.26 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 1.66 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 3.77 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 1.57 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 3.93 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 2.02 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:07  WARNING   Sleeping 0.72 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:07  WARNING   Sleeping 3.00 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 2.21 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:07  WARNING   Sleeping 2.36 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:08  WARNING   Sleeping 3.91 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:08  WARNING   Sleeping 0.76 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:08  WARNING   Sleeping 0.33 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:09  WARNING   Sleeping 0.68 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:09  WARNING   Sleeping 7.06 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:09  WARNING   Sleeping 7.84 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 2.50 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 4.32 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 2.24 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 2.96 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 4.89 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 6.46 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 6.01 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Sleeping 6.17 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:10  WARNING   Sleeping 3.78 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:10  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:10  WARNING   Sleeping 7.16 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:11  WARNING   Sleeping 0.09 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:11  WARNING   Sleeping 1.26 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:12  WARNING   Sleeping 7.57 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:12  WARNING   Sleeping 0.31 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:13  WARNING   Sleeping 3.88 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:13  WARNING   Sleeping 2.91 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:13  WARNING   Sleeping 5.14 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:13  WARNING   Sleeping 0.09 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:14  WARNING   Sleeping 0.74 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:14  WARNING   Sleeping 10.59 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:15  WARNING   Sleeping 11.39 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:15  WARNING   Sleeping 12.10 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:15  WARNING   Sleeping 13.01 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:16  WARNING   Sleeping 4.17 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:16  WARNING   Sleeping 0.90 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:16  WARNING   Sleeping 3.47 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:16  WARNING   Sleeping 2.63 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:17  WARNING   Sleeping 19.83 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:17  WARNING   Sleeping 6.46 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:17  WARNING   Sleeping 6.71 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:17  WARNING   Sleeping 3.95 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:18  WARNING   Sleeping 2.73 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:18  WARNING   Sleeping 14.44 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:19  WARNING   Sleeping 26.28 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:19  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:19  WARNING   Sleeping 6.10 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:20  WARNING   Sleeping 1.86 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:21  WARNING   Sleeping 7.36 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:22  WARNING   Sleeping 27.29 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:22  WARNING   Sleeping 8.53 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:22  WARNING   Sleeping 4.95 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:23  WARNING   Sleeping 2.38 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:24  WARNING   Sleeping 2.74 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:24  WARNING   Sleeping 29.32 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:25  WARNING   Sleeping 4.02 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:25  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:25  WARNING   Sleeping 17.56 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:25  WARNING   Sleeping 1.60 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:26  WARNING   Sleeping 1.70 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:28  WARNING   Sleeping 22.85 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:28  WARNING   Sleeping 5.97 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:28  WARNING   Sleeping 23.17 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:28  WARNING   Sleeping 0.86 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:29  WARNING   Sleeping 4.37 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:29  WARNING   Sleeping 19.77 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:29  WARNING   Sleeping 1.22 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:30  WARNING   Sleeping 7.45 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:30  WARNING   Sleeping 4.78 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:30  WARNING   Sleeping 1.25 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:32  WARNING   Sleeping 1.79 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:32  WARNING   Sleeping 4.50 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:32  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:33  WARNING   Sleeping 21.65 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:33  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:34  WARNING   Sleeping 1.05 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:34  WARNING   Sleeping 14.56 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:35  WARNING   Sleeping 0.20 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:35  WARNING   Sleeping 0.36 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:35  WARNING   Sleeping 0.93 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:35  WARNING   Sleeping 0.88 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:36  WARNING   Sleeping 6.47 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:37  WARNING   Sleeping 5.95 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:37  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:38  WARNING   Sleeping 6.02 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:38  WARNING   Sleeping 7.23 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:38  WARNING   Sleeping 1.99 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:38  WARNING   Sleeping 1.14 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:39  WARNING   Sleeping 14.40 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:39  WARNING   Connection pool is full, discarding connection: earthengine.googleapis.com. Connection pool size: 10
+21:33:40  WARNING   Sleeping 0.32 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:40  WARNING   Sleeping 3.85 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:42  WARNING   Sleeping 0.06 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:42  WARNING   Sleeping 3.29 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:42  INFO      [mediterranean_2023_00015]  pre-fire: 1-year window empty, using 2-year prior (2021-05-24 to 2021-09-21)
+21:33:43  WARNING   Sleeping 0.39 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:43  WARNING   Sleeping 8.28 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:44  WARNING   Sleeping 7.27 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:44  WARNING   Sleeping 1.82 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:44  WARNING   Sleeping 1.10 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:44  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:45  WARNING   Sleeping 1.08 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:46  WARNING   Sleeping 6.63 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:46  WARNING   Sleeping 11.24 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:47  WARNING   Sleeping 5.02 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:47  WARNING   Sleeping 13.46 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:48  WARNING   Sleeping 1.92 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:48  WARNING   Sleeping 0.44 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:49  WARNING   Sleeping 1.72 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:50  WARNING   Sleeping 6.76 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:50  WARNING   Sleeping 31.23 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:50  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:51  WARNING   Sleeping 0.07 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:51  WARNING   Sleeping 1.41 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:51  WARNING   Sleeping 2.79 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:51  WARNING   Sleeping 3.70 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:52  WARNING   Sleeping 16.91 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:52  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:52  WARNING   Sleeping 1.71 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:52  WARNING   Sleeping 30.93 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:52  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:52  WARNING   Sleeping 0.40 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:53  WARNING   Sleeping 17.38 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:53  WARNING   Sleeping 1.89 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:53  WARNING   Sleeping 0.44 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:54  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:54  WARNING   Sleeping 14.62 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:54  WARNING   Sleeping 0.90 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:54  WARNING   Sleeping 4.91 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:54  WARNING   Sleeping 15.72 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:55  WARNING   Sleeping 2.25 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:55  WARNING   Sleeping 3.54 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:55  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:55  WARNING   [mediterranean_2022_00012]  post-fire composite empty — skipping
+21:33:55  INFO      [mediterranean_2019_00020]  area=25 km²  date=2019-07-29
+21:33:55  WARNING   Sleeping 1.66 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:55  WARNING   Sleeping 1.76 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:56  WARNING   Sleeping 0.49 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:56  WARNING   Sleeping 1.86 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:56  WARNING   Sleeping 3.29 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:57  WARNING   Sleeping 10.09 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:57  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:33:57  WARNING   [mediterranean_2019_00018]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:33:57  INFO      [mediterranean_2021_00021]  area=213 km²  date=2021-08-13
+21:33:58  WARNING   Sleeping 1.84 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:58  WARNING   Sleeping 0.91 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:58  WARNING   Sleeping 11.72 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:58  WARNING   Sleeping 0.51 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:59  WARNING   Sleeping 0.35 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:59  WARNING   Sleeping 14.71 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:33:59  WARNING   Sleeping 2.14 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:00  WARNING   Sleeping 15.92 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:00  WARNING   Sleeping 1.26 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:01  WARNING   Sleeping 0.24 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:01  WARNING   Sleeping 2.94 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:01  WARNING   Sleeping 29.77 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:01  WARNING   Sleeping 6.34 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:02  WARNING   Sleeping 3.38 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:03  WARNING   Sleeping 2.54 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:03  WARNING   Sleeping 3.60 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:05  WARNING   Sleeping 4.14 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:06  WARNING   Sleeping 9.33 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:06  INFO      [mediterranean_2023_00014]  pre-fire: 1-year window empty, using 2-year prior (2021-05-24 to 2021-09-21)
+21:34:07  WARNING   Sleeping 14.00 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:07  WARNING   Sleeping 30.67 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:08  WARNING   Sleeping 0.41 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:08  WARNING   Sleeping 10.88 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:09  WARNING   Sleeping 30.38 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:09  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:09  WARNING   [mediterranean_2021_00004]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:34:09  INFO      [mediterranean_2022_00022]  area=80 km²  date=2022-06-14
+21:34:09  WARNING   Sleeping 3.06 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:09  WARNING   Sleeping 1.64 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:09  WARNING   Sleeping 9.04 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:10  WARNING   Sleeping 2.40 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:10  INFO      [mediterranean_2021_00009]  mask_type=mcd64_fallback  threshold=None
+21:34:11  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:11  WARNING   [mediterranean_2021_00011]  post-fire composite empty — skipping
+21:34:11  INFO      [mediterranean_2022_00023]  area=77 km²  date=2022-06-14
+21:34:11  WARNING   Sleeping 1.93 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:11  WARNING   Sleeping 0.62 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:11  WARNING   Sleeping 3.97 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:13  WARNING   Sleeping 27.39 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:13  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:13  WARNING   Sleeping 0.54 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:14  WARNING   Sleeping 1.90 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:14  INFO      [mediterranean_2021_00005]  pre-fire: 1-year window empty, using 2-year prior (2019-06-10 to 2019-10-08)
+21:34:14  WARNING   Sleeping 0.16 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:14  WARNING   Sleeping 0.87 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:15  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:15  WARNING   Sleeping 0.15 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:15  WARNING   Sleeping 0.34 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:16  WARNING   Sleeping 0.11 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:16  WARNING   Sleeping 1.59 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:16  WARNING   Sleeping 0.91 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:16  WARNING   Sleeping 10.70 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:16  WARNING   Sleeping 7.57 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:17  WARNING   Sleeping 1.71 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:17  WARNING   Sleeping 15.03 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:17  WARNING   Sleeping 14.63 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:17  WARNING   Sleeping 0.36 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:18  WARNING   Sleeping 7.52 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:19  WARNING   Sleeping 5.17 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:20  WARNING   Sleeping 6.30 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:20  WARNING   Sleeping 27.01 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:20  WARNING   Sleeping 10.60 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:22  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:22  WARNING   [mediterranean_2021_00010]  post-fire composite empty — skipping
+21:34:22  INFO      [mediterranean_2022_00024]  area=30 km²  date=2022-06-15
+21:34:22  WARNING   Sleeping 0.79 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:23  WARNING   Sleeping 16.86 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:23  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:23  WARNING   [mediterranean_2019_00000]  post-fire composite empty — skipping
+21:34:23  INFO      [mediterranean_2022_00025]  area=145 km²  date=2022-07-12
+21:34:24  WARNING   Sleeping 20.55 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:24  INFO      [mediterranean_2023_00013]  pre-fire: 1-year window empty, using 2-year prior (2021-05-23 to 2021-09-20)
+21:34:25  WARNING   Sleeping 1.73 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:26  WARNING   Sleeping 11.01 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:26  WARNING   Sleeping 1.03 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:27  WARNING   Sleeping 6.13 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:27  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:27  WARNING   [mediterranean_2023_00017]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:34:27  INFO      [mediterranean_2022_00026]  area=140 km²  date=2022-07-14
+21:34:27  WARNING   Sleeping 1.70 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:27  WARNING   Sleeping 0.66 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:28  WARNING   Sleeping 27.37 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:28  WARNING   Sleeping 2.15 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:29  WARNING   Sleeping 6.51 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:31  WARNING   Sleeping 3.97 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:31  WARNING   Sleeping 7.70 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:32  WARNING   Sleeping 30.66 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:33  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:33  WARNING   [mediterranean_2020_00002]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:34:33  INFO      [mediterranean_2022_00027]  area=60 km²  date=2022-07-06
+21:34:33  WARNING   Sleeping 0.80 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:33  WARNING   Sleeping 6.67 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:33  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:34  WARNING   Sleeping 0.40 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:34  WARNING   Sleeping 1.62 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:35  WARNING   Sleeping 1.74 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:35  WARNING   Sleeping 0.64 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:35  WARNING   Sleeping 1.07 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:35  WARNING   Sleeping 3.07 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:36  WARNING   Sleeping 10.98 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:36  WARNING   Sleeping 3.30 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:37  WARNING   Sleeping 4.64 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:37  WARNING   Sleeping 25.31 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:38  WARNING   Sleeping 1.93 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:38  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:38  WARNING   [mediterranean_2021_00008]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:34:38  INFO      [mediterranean_2022_00028]  area=43 km²  date=2022-07-16
+21:34:39  WARNING   Sleeping 0.43 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:39  WARNING   Sleeping 13.83 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:40  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:40  WARNING   [mediterranean_2023_00015]  post-fire composite empty — skipping
+21:34:40  INFO      [mediterranean_2022_00029]  area=28 km²  date=2022-07-19
+21:34:40  WARNING   Sleeping 1.97 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:40  WARNING   Sleeping 13.01 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:40  INFO      [mediterranean_2020_00003]  mask_type=mcd64_fallback  threshold=None
+21:34:40  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:40  WARNING   Sleeping 1.06 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:40  WARNING   [mediterranean_2021_00006]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:34:40  INFO      [mediterranean_2022_00030]  area=27 km²  date=2022-07-23
+21:34:40  WARNING   Sleeping 0.22 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:40  WARNING   Sleeping 1.81 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:41  INFO      [mediterranean_2019_00019]  mask_type=mcd64_fallback  threshold=None
+21:34:41  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:41  WARNING   Sleeping 6.99 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:41  WARNING   Sleeping 1.03 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:41  WARNING   Sleeping 0.82 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:42  WARNING   Sleeping 15.11 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:42  WARNING   Sleeping 1.92 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:42  WARNING   Sleeping 2.01 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:42  WARNING   Sleeping 6.61 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:43  WARNING   Sleeping 0.77 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:43  WARNING   Sleeping 0.33 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:44  WARNING   Sleeping 3.10 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:44  WARNING   Sleeping 5.43 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:44  WARNING   Sleeping 2.18 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:45  ERROR     [mediterranean_2019_00019]  FAILED — Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.
+Traceback (most recent call last):
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 359, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json returned "Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.". Details: "Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\files\GEE_Globe_2\pipeline_2_analysis.py", line 232, in analyse_fire
+    means = compute_baseline_means(
+        pre_ndvi, post_ndvi, pre_evi, post_evi,
+        burn_mask, aoi, ts_scale
+    )
+  File "D:\files\GEE_Globe_2\utils\gee_functions.py", line 277, in compute_baseline_means
+    ).getInfo()
+      ~~~~~~~^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\computedobject.py", line 108, in getInfo
+    return data.computeValue(self)
+           ~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 1080, in computeValue
+    return _execute_cloud_call(
+           ~~~~~~~~~~~~~~~~~~~^
+        _get_cloud_projects()
+        ^^^^^^^^^^^^^^^^^^^^^
+        .value()
+        ^^^^^^^^
+        .compute(body=body, project=_get_projects_path(), prettyPrint=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )['result']
+    ^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 361, in _execute_cloud_call
+    raise _translate_cloud_exception(e)  # pylint: disable=raise-missing-from
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ee.ee_exception.EEException: Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.
+21:34:45  INFO      [mediterranean_2022_00031]  area=27 km²  date=2022-07-24
+21:34:45  WARNING   Sleeping 1.95 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:45  WARNING   Sleeping 5.96 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:45  WARNING   Sleeping 1.45 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:46  WARNING   Sleeping 0.42 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:47  WARNING   Sleeping 1.57 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:48  WARNING   Sleeping 7.78 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:48  WARNING   Sleeping 0.84 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:48  WARNING   Sleeping 0.59 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:48  WARNING   Sleeping 3.49 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:48  WARNING   Sleeping 21.92 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:49  WARNING   Sleeping 1.38 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:49  WARNING   Sleeping 2.64 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:49  WARNING   Sleeping 1.62 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:49  WARNING   Sleeping 10.70 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:49  WARNING   Sleeping 10.44 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:50  WARNING   Sleeping 3.73 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:51  WARNING   Sleeping 2.58 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:51  WARNING   Sleeping 2.21 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:52  WARNING   Sleeping 3.05 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:52  WARNING   Sleeping 2.57 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:52  WARNING   Sleeping 7.50 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:53  WARNING   Sleeping 28.92 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:53  WARNING   Sleeping 10.65 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:54  WARNING   Sleeping 14.14 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:54  WARNING   Sleeping 7.64 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:55  WARNING   Sleeping 2.65 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:55  INFO      [mediterranean_2021_00005]  mask_type=mcd64_fallback  threshold=None
+21:34:55  ERROR     [mediterranean_2021_00009]  FAILED — Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+Traceback (most recent call last):
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 359, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 429 when requesting https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json returned "Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.". Details: "Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\files\GEE_Globe_2\pipeline_2_analysis.py", line 232, in analyse_fire
+    means = compute_baseline_means(
+        pre_ndvi, post_ndvi, pre_evi, post_evi,
+        burn_mask, aoi, ts_scale
+    )
+  File "D:\files\GEE_Globe_2\utils\gee_functions.py", line 277, in compute_baseline_means
+    ).getInfo()
+      ~~~~~~~^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\computedobject.py", line 108, in getInfo
+    return data.computeValue(self)
+           ~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 1080, in computeValue
+    return _execute_cloud_call(
+           ~~~~~~~~~~~~~~~~~~~^
+        _get_cloud_projects()
+        ^^^^^^^^^^^^^^^^^^^^^
+        .value()
+        ^^^^^^^^
+        .compute(body=body, project=_get_projects_path(), prettyPrint=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )['result']
+    ^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 361, in _execute_cloud_call
+    raise _translate_cloud_exception(e)  # pylint: disable=raise-missing-from
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ee.ee_exception.EEException: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:34:55  INFO      [mediterranean_2022_00032]  area=198 km²  date=2022-08-13
+21:34:56  INFO      [mediterranean_2022_00024]  pre-fire: 1-year window empty, using 2-year prior (2020-04-16 to 2020-08-14)
+21:34:56  WARNING   Sleeping 1.92 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:56  WARNING   Sleeping 7.59 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:57  WARNING   Sleeping 0.35 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:57  WARNING   Sleeping 23.42 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:57  WARNING   Sleeping 6.58 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:58  WARNING   Sleeping 13.26 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:58  WARNING   Sleeping 1.28 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:34:59  ERROR     [mediterranean_2021_00005]  FAILED — Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.
+Traceback (most recent call last):
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 359, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json returned "Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.". Details: "Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\files\GEE_Globe_2\pipeline_2_analysis.py", line 232, in analyse_fire
+    means = compute_baseline_means(
+        pre_ndvi, post_ndvi, pre_evi, post_evi,
+        burn_mask, aoi, ts_scale
+    )
+  File "D:\files\GEE_Globe_2\utils\gee_functions.py", line 277, in compute_baseline_means
+    ).getInfo()
+      ~~~~~~~^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\computedobject.py", line 108, in getInfo
+    return data.computeValue(self)
+           ~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 1080, in computeValue
+    return _execute_cloud_call(
+           ~~~~~~~~~~~~~~~~~~~^
+        _get_cloud_projects()
+        ^^^^^^^^^^^^^^^^^^^^^
+        .value()
+        ^^^^^^^^
+        .compute(body=body, project=_get_projects_path(), prettyPrint=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )['result']
+    ^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 361, in _execute_cloud_call
+    raise _translate_cloud_exception(e)  # pylint: disable=raise-missing-from
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ee.ee_exception.EEException: Image.gte: If one image has no bands, the other must also have no bands. Got 0 and 1.
+21:34:59  INFO      [mediterranean_2022_00033]  area=129 km²  date=2022-08-13
+21:34:59  WARNING   Sleeping 1.02 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:00  WARNING   Sleeping 0.35 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:00  WARNING   Sleeping 1.39 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:01  WARNING   Sleeping 7.94 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:01  WARNING   Sleeping 27.67 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:01  WARNING   Sleeping 1.31 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:02  WARNING   Sleeping 1.25 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:02  WARNING   Sleeping 3.03 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:02  WARNING   Sleeping 10.92 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:03  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:35:03  WARNING   [mediterranean_2023_00016]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:35:03  INFO      [mediterranean_2022_00034]  area=88 km²  date=2022-08-11
+21:35:03  WARNING   Sleeping 0.07 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:03  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:35:04  WARNING   Sleeping 3.95 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:04  WARNING   Sleeping 4.84 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:04  WARNING   Sleeping 27.31 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:05  WARNING   Sleeping 1.56 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:05  WARNING   Sleeping 1.08 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:05  WARNING   Sleeping 6.07 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:05  WARNING   Sleeping 0.13 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:05  WARNING   Sleeping 1.68 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:07  WARNING   Sleeping 1.27 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:07  ERROR     [mediterranean_2020_00003]  FAILED — Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+Traceback (most recent call last):
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 359, in _execute_cloud_call
+    return call.execute(num_retries=num_retries)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\googleapiclient\http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 429 when requesting https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json returned "Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.". Details: "Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\files\GEE_Globe_2\pipeline_2_analysis.py", line 232, in analyse_fire
+    means = compute_baseline_means(
+        pre_ndvi, post_ndvi, pre_evi, post_evi,
+        burn_mask, aoi, ts_scale
+    )
+  File "D:\files\GEE_Globe_2\utils\gee_functions.py", line 277, in compute_baseline_means
+    ).getInfo()
+      ~~~~~~~^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\computedobject.py", line 108, in getInfo
+    return data.computeValue(self)
+           ~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 1080, in computeValue
+    return _execute_cloud_call(
+           ~~~~~~~~~~~~~~~~~~~^
+        _get_cloud_projects()
+        ^^^^^^^^^^^^^^^^^^^^^
+        .value()
+        ^^^^^^^^
+        .compute(body=body, project=_get_projects_path(), prettyPrint=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )['result']
+    ^
+  File "C:\Users\ANANTA\AppData\Roaming\Python\Python314\site-packages\ee\data.py", line 361, in _execute_cloud_call
+    raise _translate_cloud_exception(e)  # pylint: disable=raise-missing-from
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ee.ee_exception.EEException: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:35:07  INFO      [mediterranean_2022_00035]  area=73 km²  date=2022-08-08
+21:35:07  WARNING   Sleeping 0.53 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:07  WARNING   Sleeping 2.77 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:07  WARNING   Sleeping 1.83 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:08  WARNING   Sleeping 6.36 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:08  WARNING   Sleeping 4.65 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:08  WARNING   Sleeping 0.29 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:09  WARNING   Sleeping 0.43 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:09  WARNING   Sleeping 3.22 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:09  WARNING   Sleeping 9.82 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:10  WARNING   Sleeping 4.09 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:10  WARNING   Sleeping 5.52 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:10  WARNING   Sleeping 7.84 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:11  WARNING   Sleeping 4.28 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:11  WARNING   Sleeping 1.33 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:11  WARNING   Sleeping 6.05 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:12  WARNING   Sleeping 1.39 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:13  WARNING   Sleeping 9.39 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:13  WARNING   Sleeping 3.38 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:14  WARNING   Sleeping 5.54 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:14  WARNING   Sleeping 3.00 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:15  WARNING   Sleeping 29.39 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:15  WARNING   Sleeping 3.58 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:15  WARNING   Sleeping 9.03 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:16  WARNING   Sleeping 14.92 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:17  WARNING   Sleeping 0.23 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:17  WARNING   Sleeping 1.45 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:17  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:35:17  WARNING   [mediterranean_2022_00023]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:35:17  INFO      [mediterranean_2022_00036]  area=29 km²  date=2022-09-07
+21:35:18  WARNING   Sleeping 1.82 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:18  INFO      [mediterranean_2023_00014]  mask_type=mcd64_fallback  threshold=None
+21:35:18  WARNING   Sleeping 1.99 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:19  WARNING   Sleeping 14.61 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:19  WARNING   Sleeping 2.55 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:19  WARNING   Sleeping 0.89 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:19  WARNING   Sleeping 16.45 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:20  WARNING   Sleeping 5.25 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:20  WARNING   Sleeping 9.49 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:20  WARNING   Sleeping 0.23 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:20  WARNING   Sleeping 31.34 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:21  WARNING   Sleeping 0.10 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:21  WARNING   Sleeping 3.67 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:21  WARNING   Sleeping 0.73 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:21  WARNING   Sleeping 7.48 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:22  WARNING   composite_is_empty exception: Too Many Requests: Request was rejected because the request rate or concurrency limit was exceeded.
+21:35:22  WARNING   [mediterranean_2019_00020]  pre-fire composite empty (both 1yr and 2yr prior) — skipping
+21:35:22  INFO      [mediterranean_2019_00037]  area=38 km²  date=2019-08-02
+21:35:23  WARNING   Sleeping 0.61 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:23  WARNING   Sleeping 1.76 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:23  WARNING   Sleeping 0.17 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:23  WARNING   Sleeping 4.85 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:24  WARNING   Sleeping 5.75 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:24  WARNING   Sleeping 6.42 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:25  WARNING   Sleeping 30.03 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:25  WARNING   Sleeping 0.63 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:25  WARNING   Sleeping 11.24 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:25  WARNING   Sleeping 0.02 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:26  WARNING   Sleeping 1.57 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:26  WARNING   Sleeping 2.85 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:28  WARNING   Sleeping 6.41 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:29  WARNING   Sleeping 16.24 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:29  WARNING   Sleeping 4.45 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:29  WARNING   Sleeping 3.75 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:29  WARNING   Sleeping 9.30 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:30  WARNING   Sleeping 0.96 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:31  WARNING   Sleeping 28.39 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
+21:35:31  WARNING   Sleeping 1.09 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/forestrecovery/value:compute?prettyPrint=false&alt=json, after 429
